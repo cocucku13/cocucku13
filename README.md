@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=всем+кискам+пис,+я+из+ниту+мисис)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Osvald&size=24&pause=1000&color=A0A7F7&center=true&vCenter=true&random=true&width=435&lines=%D0%B2%D1%81%D0%B5%D0%BC+%D0%BA%D0%B8%D1%81%D0%BA%D0%B0%D0%BC+%D0%BF%D0%B8%D1%81+-+%D1%8F+%D0%B8%D0%B7+%D0%BD%D0%B8%D1%82%D1%83+%D0%BC%D0%B8%D1%81%D0%B8%D1%81)](https://git.io/typing-svg)
