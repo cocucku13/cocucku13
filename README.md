@@ -4,6 +4,9 @@
   </a>
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<p align="center">
   <a href="https://www.python.org/">
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" height="75" style="display: inline-block; margin-right: 60px;" />
   </a>
